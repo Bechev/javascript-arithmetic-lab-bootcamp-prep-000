@@ -19,3 +19,8 @@ function inc(n) {
   n++
   return n
 }
+
+function inc(n) {
+  n--
+  return n
+}
